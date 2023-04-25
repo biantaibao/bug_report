@@ -68,6 +68,6 @@ Content-Disposition: form-data; name="status"
 ------WebKitFormBoundaryEVgmE4IS3SY3HsV8--
 ```
 
-5.Payload will trigger when a user visits on http://localhost/php-pess/admin/?page=positions
+5.Payload will trigger when a user visits on http://localhost/purchase_order/admin/?page=items
 
 ![image](https://github.com/biantaibao/bug_report/blob/main/xss2.png)
