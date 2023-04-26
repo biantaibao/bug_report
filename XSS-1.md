@@ -1,8 +1,4 @@
-# Purchase Order Management System v1.0 has stored cross-site scripting
-
 BUG_Author: biantaibao
-
-Website source address:https://www.sourcecodester.com/php/14935/purchase-order-management-system-using-php-free-source-code.html
 
 Vulnerability url:/purchase_order/classes/Master.php?f=save_item
 
